@@ -15,3 +15,7 @@ CSS for rendering Markdown files as HTML.
 ## [snippets](./snippets)
 
 Miscellaneous code snippets.
+
+## [tabler](./tabler)
+
+[Tabler](https://tabler.io) is a free and open-source HTML Dashboard UI Kit built on Bootstrap 5.
